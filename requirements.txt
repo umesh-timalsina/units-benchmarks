@@ -1,2 +1,4 @@
 unyt
 pint
+numpy
+matplotlib
